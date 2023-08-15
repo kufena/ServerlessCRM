@@ -1,6 +1,6 @@
-## Serverless CRM
+# Serverless CRM
 
-# The idea
+## The idea
 
 This project came from some help I gave to someone creating a bespoke CRM for a small charity - circa 500 - 1000 members perhaps.  They wanted to store
 some member details and send emails - en masse and individually I guess.  They'd written a .NET application which required hosting, and the cost of hosting
